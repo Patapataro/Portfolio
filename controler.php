@@ -5,9 +5,6 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-//Load Composer's autoloader
-require 'vendor/autoload.php';
-
 //Create an instance; passing `true` enables exceptions
 $mail = new PHPMailer(true);
 
@@ -33,9 +30,9 @@ if(isset($_POST['submit'])) {
             $mail->Host       = 'smtp.dreamhost.com';                     //Set the SMTP server to send through
             $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
             $mail->Username   = 'message@savvyscheme.dev';                     //SMTP username
-            $mail->Password   = '$kittles2424';                               //SMTP password
+            $mail->Password   = $_ENV['EMAIL_PASSWORD'];                               //SMTP password
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
-            $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+            $mail->Port       = 465;                                //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
             //Recipients
             $mail->setFrom('message@savvyscheme.dev', 'Portfolio Message');
@@ -52,8 +49,8 @@ if(isset($_POST['submit'])) {
             //Content
             $mail->isHTML(true);                                  //Set email format to HTML
             $mail->Subject = 'Message From: ' . $_POST['name'];
-            $mail->Body    = $_POST['body'] . " <br> Contacts Email:" . $email;
-            $mail->AltBody = $_POST['body'] . " <br> Contacts Email:" . $email;
+            $mail->Body    = $_POST['body'] . " <br> Contact's Email: " . $email;
+            $mail->AltBody = $_POST['body'] . " <br> Contact's Email: " . $email;
 
             $mail->send();
             echo '<script>showAlert("Your email has been sent", "bg-success");</script>';
