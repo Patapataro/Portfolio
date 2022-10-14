@@ -1,0 +1,1 @@
+Check list uses Local Storage to save tasks after the user has closed the browser.

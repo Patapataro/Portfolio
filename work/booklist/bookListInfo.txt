@@ -1,0 +1,3 @@
+bookList is a book list app
+that is programed in both es6 and es5 OOP classes 
+it also uses localStorage to save books.

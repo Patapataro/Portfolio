@@ -1,0 +1,1 @@
+It calculates numbers and Hides/shows elements.
