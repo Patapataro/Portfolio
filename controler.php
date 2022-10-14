@@ -42,7 +42,7 @@ if(isset($_POST['submit'])) {
             $mail->addAddress('savvyscheme@gmail.com');     //Add a recipient
             //$mail->addAddress('ellen@example.com');               //Name is optional
             //$mail->addReplyTo('info@example.com', 'Information');
-            //$mail->addCC('cc@example.com');
+            $mail->addCC('message@savvyscheme.dev');
             //$mail->addBCC('bcc@example.com');
 
             //Attachments
