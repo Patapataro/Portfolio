@@ -20,10 +20,10 @@
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" /> -->
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="vendor/bootstrap/fontawesome/css/fontawesome.min.css">
-    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="vendor/bootstrap/css/lightbox.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap/fontawesome/css/fontawesome.min.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap/css/lightbox.css">
     <link rel="stylesheet" href="css/bootswitch.css">
 
     
@@ -31,4 +31,3 @@
 
 
     <title>My Portfolio</title>
-</head>
