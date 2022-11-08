@@ -17,9 +17,9 @@
                                     </a>
                                     
                                     <a href="https://codepen.io/SavvyScheme/" target="_blank" class="text-decoration-none link">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16">
-                                            <path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/>
-                                            <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z"/>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="" viewBox="0 0 24.3 24.29">
+                                            <title>codepen</title>
+                                            <path d="M12.15,24.29a1.14,1.14,0,0,1-.65-.2l-11-7.28a.91.91,0,0,1-.32-.3h0l0-.05A1.24,1.24,0,0,1,0,15.82V8.45a1.23,1.23,0,0,1,.18-.63l0-.06a1,1,0,0,1,.32-.29L11.5.19a1.22,1.22,0,0,1,1.3,0l11,7.28a1,1,0,0,1,.32.29h0a.1.1,0,0,1,0,.05,1.23,1.23,0,0,1,.18.63v7.37a1.24,1.24,0,0,1-.18.64l0,.05a1,1,0,0,1-.32.3l-11,7.28A1.14,1.14,0,0,1,12.15,24.29Zm1.15-7.84V21l7.78-5.17-3.43-2.31ZM3.22,15.83,11,21V16.45L6.65,13.52Zm5.49-3.69,3.44,2.31,3.44-2.31L12.15,9.82Zm11,0L22,13.68V10.6ZM2.3,10.6v3.08l2.29-1.54Zm11-2.77,4.35,2.92,3.43-2.3L13.3,3.28ZM3.22,8.45l3.43,2.3L11,7.83V3.28Z"/>
                                         </svg>
                                     </a>
                                     <a href="https://github.com/Patapataro" target="_blank" class="text-decoration-none link">
@@ -44,9 +44,8 @@
                                         </a>
                                         
                                         <a href="https://codepen.io/SavvyScheme/" target="_blank" class="text-decoration-none link">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16">
-                                                <path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/>
-                                                <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z"/>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 24.3 24.29">
+                                                <path d="M12.15,24.29a1.14,1.14,0,0,1-.65-.2l-11-7.28a.91.91,0,0,1-.32-.3h0l0-.05A1.24,1.24,0,0,1,0,15.82V8.45a1.23,1.23,0,0,1,.18-.63l0-.06a1,1,0,0,1,.32-.29L11.5.19a1.22,1.22,0,0,1,1.3,0l11,7.28a1,1,0,0,1,.32.29h0a.1.1,0,0,1,0,.05,1.23,1.23,0,0,1,.18.63v7.37a1.24,1.24,0,0,1-.18.64l0,.05a1,1,0,0,1-.32.3l-11,7.28A1.14,1.14,0,0,1,12.15,24.29Zm1.15-7.84V21l7.78-5.17-3.43-2.31ZM3.22,15.83,11,21V16.45L6.65,13.52Zm5.49-3.69,3.44,2.31,3.44-2.31L12.15,9.82Zm11,0L22,13.68V10.6ZM2.3,10.6v3.08l2.29-1.54Zm11-2.77,4.35,2.92,3.43-2.3L13.3,3.28ZM3.22,8.45l3.43,2.3L11,7.83V3.28Z"/>
                                             </svg>
                                         </a>
                                         <a href="https://github.com/Patapataro" target="_blank" class="text-decoration-none link">
@@ -147,8 +146,8 @@
                  <div class="col-lg-4 col-md-6">
                      <div class="card">
                         <div class="card-body">
-                            <h4 class="card-tittle">Abracon LLC</h4>
-                            <p class="card-text">Developed software systems as part of Abracon's operations team with focus on increasing business efficiency.</p>
+                            <h4 class="card-tittle"><a href="https://abracon.com/">Abracon LLC</a></h4>
+                            <p class="card-text">Developed software systems as part of Abracon's operations team with focus on increasing business efficiency</p>
 
                                 
                             <p class="p-2 mb-3 bg-dark text-white">
@@ -161,7 +160,7 @@
                         </div>
                       </div>
                     </div>
-                   <div class="col-lg-4 col-md-6">
+                   <!-- <div class="col-lg-4 col-md-6">
                      <div class="card">
                         <div class="card-body">
                             <h4 class="card-tittle">Freelancer</h4>
@@ -169,46 +168,40 @@
                             <p class="p-2 mb-3 bg-dark text-white">
                                 Position: Software Developer 
                             </p>
-                            <!-- <p class="p-2 mb-3 bg-dark text-white">
+                            <p class="p-2 mb-3 bg-dark text-white">
                                 Phone: (512)210-1046
-                            </p> -->
+                            </p>
                         </div>
                         <div class="card-footer">
                             <div class="text-muted">Dates: 2016 - 2019</div>
                         </div>
                       </div>
-                    </div>
-                    <!-- <div class="col-lg-4 col-md-6">
-                      <div class="card">
-                        <div class="card-body">
-                            <h4 class="card-tittle">General Motors/Alorica </h4>
-                            <p class="card-text">I trouble shooted touchscreen radios for all GM systems.</p>
-                            <p class="p-2 mb-3 bg-dark text-white">
-                                Position: Infotainment Specialist
-                            </p>
-                            <p class="p-2 mb-3 bg-dark text-white">
-                                Phone: (866)256-7422
-                            </p>
-                        </div>
-                        <div class="card-footer">
-                            <div class="text-muted">Dates: 2018 April – 2018 June</div>
-                        </div>
-                      </div>
-                     </div> -->
+                    </div> -->
                     <div class="col-lg-4 col-md-6">
                       <div class="card">
                         <div class="card-body">
-                            <h4 class="card-tittle">Web.com</h4>
-                            <p class="card-text">I consulted a range of different business owners from Attorneys to Architects. I advised in (SEO, Google AdWords, Dynamic Websites).</p>
+                            <h4 class="card-tittle"><a href="https://fittfinder.com/">FITT Finder</a> </h4>
+                            <p class="card-text">Created a custom blog for FITT Finder by writing PHP plugins and themes in WordPress</p>
                             <p class="p-2 mb-3 bg-dark text-white">
-                                Position: Digital Consultant
-                            </p>
-                            <p class="p-2 mb-3 bg-dark text-white">
-                                Phone: (877)821-9023
+                                Position: Software Engineer
                             </p>
                         </div>
                         <div class="card-footer">
-                            <div class="text-muted">Dates: 2017 Dec – 2018 Feb</div>
+                            <div class="text-muted">Dates: 2018 Oct – 2018 Dec</div>
+                        </div>
+                      </div>
+                     </div>
+                    <div class="col-lg-4 col-md-6">
+                      <div class="card">
+                        <div class="card-body">
+                            <h4 class="card-tittle">WalkOut</h4>
+                            <p class="card-text">Created the front-end of a single-page app using: JavaScript, Vue.js, MapBox, open street maps, Bootstrap, and Google Firebase</p>
+                            <p class="p-2 mb-3 bg-dark text-white">
+                                Position: Software Engineer
+                            </p>
+                        </div>
+                        <div class="card-footer">
+                            <div class="text-muted">Dates: 2016 Aug – 2016 Nov</div>
                         </div>
                     </div>
                   </div>
