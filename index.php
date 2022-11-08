@@ -146,7 +146,7 @@
                  <div class="col-lg-4 col-md-6">
                      <div class="card">
                         <div class="card-body">
-                            <h4 class="card-tittle"><a href="https://abracon.com/">Abracon LLC</a></h4>
+                            <h4 class="card-tittle"><a href="https://abracon.com/" target="_blank">Abracon LLC</a></h4>
                             <p class="card-text">Developed software systems as part of Abracon's operations team with focus on increasing business efficiency</p>
 
                                 
@@ -180,7 +180,7 @@
                     <div class="col-lg-4 col-md-6">
                       <div class="card">
                         <div class="card-body">
-                            <h4 class="card-tittle"><a href="https://fittfinder.com/">FITT Finder</a> </h4>
+                            <h4 class="card-tittle"><a href="https://fittfinder.com/" target="_blank">FITT Finder</a> </h4>
                             <p class="card-text">Created a custom blog for FITT Finder by writing PHP plugins and themes in WordPress</p>
                             <p class="p-2 mb-3 bg-dark text-white">
                                 Position: Software Engineer
