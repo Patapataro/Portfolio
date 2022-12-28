@@ -233,9 +233,9 @@
                     </a>
                     <div class="card-body">
                         <h4 class="card-tittle">Palux</h4>
-                        <p class="card-text">A ladning page that talks about a book and its authors.</p>
+                        <p class="card-text">A landing page that talks about a book and its authors.</p>
                         <p class=" p-2 mb-3 bg-dark text-white">
-                        Bootstrap CSS Framework
+                        Vanilla Javascript, and Bootstrap CSS Framework
                         </p>
                     </div>
                 </div>
@@ -252,7 +252,7 @@
                         <h4 class="card-tittle">Avant Loop</h4>
                         <p class="card-text">A social media sign up page.</p>
                         <p class=" p-2 mb-3 bg-dark text-white">
-                        Bootstrap CSS Framework 
+                        Vanilla Javascript, and Bootstrap CSS Framework 
                         </p>
                     </div>
                 </div>
@@ -271,7 +271,7 @@
                         <h4 class="card-tittle">Content Management System</h4>
                         <p class="card-text">This is a CMS for bloggers. It has a backend to manage the posts, comments users and categories. </p>
                         <p class=" p-2 mb-3 bg-dark text-white">
-                        PHP, JavaScript and Bootstrap CSS Framework for the UI.
+                        PHP, Javascript, and Bootstrap CSS Framework for the UI
                         </p>
                     </div>
                 </div>
@@ -288,7 +288,7 @@
                         <h4 class="card-tittle">GitHub Finder</h4>
                         <p class="card-text">Github Finder allows you to fetch information on Github users using the GitHub API.</p>
                         <p class="p-2 mb-3 bg-dark text-white">
-                        JavaScript, Github API and Bootswatch for the UI.
+                        Vanilla Javascript, Github API and Bootswatch for the UI
                         </p>
                     </div>
                 </div>
@@ -307,7 +307,7 @@
                         <h4 class="card-tittle">Book List</h4>
                         <p class="card-text">Book List is perfect for libraries and is also linked to your local storage in the browser.</p>
                         <p class="p-2 mb-3 bg-dark text-white">
-                        JavaScript and Skeleton for the UI.
+                        Vanilla Javascript and Skeleton for the UI
                         </p>
                     </div>
                 </div>
@@ -324,7 +324,7 @@
                         <h4 class="card-tittle">Kingdom Hearts Release Date Countdown</h4>
                         <p class="card-text">This page shows off Kingdom Hearts' animations and displays a countdown for the games release.</p>
                         <p class="p-2 mb-3 bg-dark text-white">
-                            JavaScript and CSS styling.
+                        Javascript and CSS styling
                         </p>
                     </div>
                 </div>
@@ -333,7 +333,7 @@
                 <div class="card">
                     <a href="work/loancalculator">
                         <div class="container-fade">
-                            <img class="img-fluid card-img-top" src="img/loancalc.jpg" alt="Card image cap" height="267" width="267">
+                            <img class="img-fluid card-img-top" src="img/loancalc.png" alt="Card image cap" height="267" width="267">
                             <div class="overlay-fade">
                                 <div class="text-fade">click Me</div>
                             </div>
@@ -343,7 +343,7 @@
                         <h4 class="card-tittle">Loan Calculator</h4>
                         <p class="card-text">Loan Calculator compounds a loan biyearly and gives you the interest.</p>
                         <p class="p-2 mb-3 bg-dark text-white">
-                        JavaScript and Bootstrap CSS Framework for the UI.
+                        Vanilla Javascript and Bootstrap CSS Framework for the UI
                         </p>
                     </div>
                 </div>
@@ -360,7 +360,7 @@
                         <h4 class="card-tittle">Task List</h4>
                         <p class="card-text">Task List uses Local Storage to save tasks after the user has closed the browser.</p>
                         <p class="p-2 mb-3 bg-dark text-white">
-                        JavaScript and Materialize for the UI.
+                        Vanilla Javascript and Materialize for the UI
                         </p>
                     </div>
                 </div>
