@@ -1,0 +1,130 @@
+:root {
+  --boxColor: #0ff6;
+  --boxWidth: 1em;
+  --boxHeight: 1em;
+  --rotateSpeed: 5s;
+}
+.cube-container {
+  min-height: 20vh;
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  perspective: 13em;
+  perspective-origin: 50% calc(50% - 4.5em);
+}
+
+@media(max-width:768px){
+    .cube-container {
+        min-height: 10vh;
+        font-size: 10px;
+    }
+}
+
+.scene {
+  position: relative;
+  transform-style: preserve-3d;
+}
+.rows {
+  transform-style: preserve-3d;
+}
+.bottomRow {
+  animation: rotate 10s infinite linear;
+  transform: translateY(.75em);
+}
+@keyframes rotate {
+  to {
+    transform: translateY(.75em) rotateY(360deg);
+  }
+}
+.centerRow {
+  animation: rotateCenter 7s infinite linear reverse;
+  transform: translateY(-.50em);
+}
+@keyframes rotateCenter {
+  to {
+    transform: translateY(-.50em) rotateY(360deg);
+  }
+}
+.topRow {
+  transform: translateY(-2em);
+  animation: rotateTop 5s infinite linear;
+}
+@keyframes rotateTop {
+  to {
+    transform: translateY(-2em) rotateY(360deg);
+  }
+}
+.cube {
+  width: var(--boxWidth);
+  height: var(--boxHeight);
+  transform-style: preserve-3d;
+  position: absolute;
+  top: -0.5em;
+  left: -0.5em;
+}
+.cube .top, .cube .bottom, .cube .front, .cube .back, .cube .left, .cube .right {
+  position: absolute;
+  background: var(--boxColor);
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0 0.5em #000a inset;
+}
+.top {
+  transform: translateY(-50%) rotateX(90deg);
+}
+.bottom {
+  transform: translateY(50%) rotateX(270deg);
+}
+.front {
+  transform: translateZ(0.5em);
+}
+.back {
+  transform: translateZ(-0.5em);
+}
+.left {
+  transform: translateX(-0.5em) rotateY(270deg);
+}
+.right {
+  transform: translateX(0.5em) rotateY(90deg);
+}
+.leftCube {
+  left: -1.75em;
+}
+.rightCube {
+  left: 0.75em;
+}
+.backCube {
+  transform: translateZ(-1.25em);
+}
+.backLeft {
+  transform: translateZ(-1.25em);
+  left: -1.75em;
+}
+.backRight {
+  transform: translateZ(-1.25em);
+  left: 0.75em;
+}
+.frontCube {
+  transform: translateZ(1.25em);
+}
+.frontLeft {
+  transform: translateZ(1.25em);
+  left: -1.75em;
+}
+.frontRight {
+  transform: translateZ(1.25em);
+  left: 0.75em;
+}
+/* .floor {
+  position: absolute;
+  top: 1em;
+  transform: translate(-50%, -49.9%) rotateX(90deg);
+  width: 15em;
+  height: 15em;
+  background-image: radial-gradient(#0000, #000 75%), repeating-conic-gradient(from 45deg, #111 0deg 90deg, #222 90deg 180deg);
+  background-size: 100%, 1em 1em;
+} */
+
+

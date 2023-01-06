@@ -6,9 +6,271 @@
                 <div class="col-md-12">
                     <div class="d-flex flex-column">
                         <div class="p-5 bg-dark text-white">
-                            <div class="name">
-                                <h1 class="name display-4 font-weight-bold color-white ">Patrick Flores</h1>
-                                <p>Software Developer</p> 
+                            <div class="name row">
+                                <div class="name-desc col-md-6">
+                                    <h1 class="name display-4 font-weight-bold color-white ">Patrick Flores</h1>
+                                    <p>Software Developer</p> 
+                                </div>
+                                <div class="cube-container col-md-6">
+                                    
+                                    <div class="scene">
+                                        <!-- <div class="floor"></div> -->
+                                        
+                                        <div class="rows bottomRow">
+                                            <div class="cube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube leftCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube rightCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube backCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube backLeft">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube backRight">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube frontCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube frontLeft">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube frontRight">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+                                        </div>
+                                        <!-- End of Bottom Row -->
+                                        
+                                        <div class="rows centerRow">
+                                            <div class="cube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube leftCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube rightCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube backCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube backLeft">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube backRight">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube frontCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube frontLeft">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube frontRight">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+                                        </div>
+                                        <!-- end of center row -->
+                                        
+                                        <div class="rows topRow">
+                                            <div class="cube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube leftCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube rightCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube backCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube backLeft">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube backRight">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube frontCube">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube frontLeft">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+
+                                            <div class="cube frontRight">
+                                            <div class="top"></div>
+                                            <div class="bottom"></div>
+                                            <div class="front"></div>
+                                            <div class="back"></div>
+                                            <div class="left"></div>
+                                            <div class="right"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
                                 <div class="links-a">
                                     <a href="https://www.linkedin.com/in/patrick-flores/" target="_blank" class="text-decoration-none link">
                                         <svg width="25" height="25" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
