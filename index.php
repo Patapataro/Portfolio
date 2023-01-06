@@ -9,7 +9,7 @@
                             <div class="name row">
                                 <div class="name-desc col-md-6">
                                     <h1 class="name display-4 font-weight-bold color-white ">Patrick Flores</h1>
-                                    <p>Software Developer</p> 
+                                    <p id="title">Software Developer</p> 
                                 </div>
                                 <div class="cube-container col-md-6">
                                     <?php include 'cube.php'; ?>
