@@ -17,8 +17,7 @@
 
 @media(max-width:768px){
     .cube-container {
-        min-height: 10vh;
-        font-size: 10px;
+        display: none;
     }
 }
 
