@@ -7,11 +7,11 @@
                     <div class="d-flex flex-column">
                         <div class="p-5 bg-dark text-white">
                             <div class="name row">
-                                <div class="name-desc col-md-6">
-                                    <h1 class="name display-4 font-weight-bold color-white ">Patrick Flores</h1>
+                                <div class="name-desc col-md-8">
+                                    <h1 id="name" class="name display-5 font-weight-bold color-white ">Patrick Flores</h1>
                                     <p id="title">Software Developer</p> 
                                 </div>
-                                <div class="cube-container col-md-6">
+                                <div class="cube-container col-md-4">
                                     <?php include 'cube.php'; ?>
                                 </div>
 

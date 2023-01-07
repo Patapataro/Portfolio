@@ -53,11 +53,6 @@ img{
     color: white;
 }
 
-.name {
-    margin-right: auto;
-    margin-left: auto;
-}
-
 .bg-warning{
     background-color:#66fcf1 !important;
 }
@@ -157,6 +152,11 @@ img{
     .links-a {
         display: none;
     }
+
+    .name {
+        text-align: center;
+    }
+
 }
 
 @media(min-width:768px){
@@ -172,6 +172,11 @@ img{
     .links-a {
         display: none;
     }
+
+    #name {
+        font-size: 3em;
+    }
+
 }
 
 @media(max-width:500px){
@@ -199,6 +204,7 @@ img{
     .links-a {
         display: flex;
         justify-content: center;
+        width: 100%;
     }
 }
 
