@@ -53,6 +53,12 @@ img{
     color: white;
 }
 
+.name-desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .bg-warning{
     background-color:#66fcf1 !important;
 }
