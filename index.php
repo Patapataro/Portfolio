@@ -66,12 +66,15 @@
                         
                         <div>
                             <div id="menu" class="d-flex flex-row">
-                                <!-- <div class="menu-section d-flex flex-row text white align-items-stretch text-center"> -->
-                                    <!-- <div id="home-btn" class="port-item p-4 bg-primary" data-toggle="collapse" data-target="#home">
-                                        <i class="tabs fa fa-home d-block"></i> Home
-                                    </div> -->
-
-                                <!-- </div> -->
+                                <!-- <div class="menu-section d-flex flex-row text white align-items-stretch text-center">
+                                    <div id="home-btn" class="port-item p-4 bg-primary" data-toggle="collapse" data-target="#home">
+                                    <svg width="25" height="25" fill="currentColor" class="bi bi-braces-asterisk" viewBox="0 0 16 16">
+                                            <path fill-rule="evenodd" d="M1.114 8.063V7.9c1.005-.102 1.497-.615 1.497-1.6V4.503c0-1.094.39-1.538 1.354-1.538h.273V2h-.376C2.25 2 1.49 2.759 1.49 4.352v1.524c0 1.094-.376 1.456-1.49 1.456v1.299c1.114 0 1.49.362 1.49 1.456v1.524c0 1.593.759 2.352 2.372 2.352h.376v-.964h-.273c-.964 0-1.354-.444-1.354-1.538V9.663c0-.984-.492-1.497-1.497-1.6ZM14.886 7.9v.164c-1.005.103-1.497.616-1.497 1.6v1.798c0 1.094-.39 1.538-1.354 1.538h-.273v.964h.376c1.613 0 2.372-.759 2.372-2.352v-1.524c0-1.094.376-1.456 1.49-1.456v-1.3c-1.114 0-1.49-.362-1.49-1.456V4.352C14.51 2.759 13.75 2 12.138 2h-.376v.964h.273c.964 0 1.354.444 1.354 1.538V6.3c0 .984.492 1.497 1.497 1.6ZM7.5 11.5V9.207l-1.621 1.621-.707-.707L6.792 8.5H4.5v-1h2.293L5.172 5.879l.707-.707L7.5 6.792V4.5h1v2.293l1.621-1.621.707.707L9.208 7.5H11.5v1H9.207l1.621 1.621-.707.707L8.5 9.208V11.5h-1Z"/>
+                                        </svg>
+                                        <br>
+                                        HOME
+                                    </div>
+                                </div> -->
                                 <div class="menu-section d-flex flex-row text white align-items-stretch text-center">
                                     <div class="color-black port-item p-4 bg-success" data-toggle="collapse" data-target="#resume">
                                         <!-- <i class="tabs fa fa-graduation-cap d-block"></i>  -->
@@ -89,7 +92,16 @@
                                         <br>
                                         PORTFOLIO
                                     </div>
-                                    <div class="color-black port-item p-4 bg-danger" data-toggle="collapse" data-target="#contact">
+                                    <div class="color-black port-item p-4 bg-danger" data-toggle="collapse" data-target="#certificates">
+                                        <!-- <i class="tabs fa fa-envelope d-block"></i>  -->
+                                        <svg width="25" height="25" fill="currentColor" class="bi bi-patch-check" viewBox="0 0 16 16">
+                                            <path fill-rule="evenodd" d="M10.354 6.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7 8.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
+                                            <path d="m10.273 2.513-.921-.944.715-.698.622.637.89-.011a2.89 2.89 0 0 1 2.924 2.924l-.01.89.636.622a2.89 2.89 0 0 1 0 4.134l-.637.622.011.89a2.89 2.89 0 0 1-2.924 2.924l-.89-.01-.622.636a2.89 2.89 0 0 1-4.134 0l-.622-.637-.89.011a2.89 2.89 0 0 1-2.924-2.924l.01-.89-.636-.622a2.89 2.89 0 0 1 0-4.134l.637-.622-.011-.89a2.89 2.89 0 0 1 2.924-2.924l.89.01.622-.636a2.89 2.89 0 0 1 4.134 0l-.715.698a1.89 1.89 0 0 0-2.704 0l-.92.944-1.32-.016a1.89 1.89 0 0 0-1.911 1.912l.016 1.318-.944.921a1.89 1.89 0 0 0 0 2.704l.944.92-.016 1.32a1.89 1.89 0 0 0 1.912 1.911l1.318-.016.921.944a1.89 1.89 0 0 0 2.704 0l.92-.944 1.32.016a1.89 1.89 0 0 0 1.911-1.912l-.016-1.318.944-.921a1.89 1.89 0 0 0 0-2.704l-.944-.92.016-1.32a1.89 1.89 0 0 0-1.912-1.911l-1.318.016z"/>
+                                        </svg>
+                                        <br>
+                                        CERTIFICATES
+                                    </div>
+                                    <div class="color-black port-item p-4 bg-primary" data-toggle="collapse" data-target="#contact">
                                         <!-- <i class="tabs fa fa-envelope d-block"></i>  -->
                                         <svg width="25" height="25" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
                                             <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/>
@@ -108,9 +120,9 @@
         <!-- HOME -->
         <!-- <div id="home" class="collapse show">
             <div class="card card-body bg-primary text-white py-5">
-                <h2 class="color-white">Welcome to my page</h2> -->
-                <!-- <p class="lead">I'm a web developer</p> -->
-            <!-- </div>
+                <h2 class="color-white">Welcome to my page</h2>
+                <p class="lead">I'm a web developer</p>
+            </div>
             <div class="card card-body py-5">
                 <h3>My Skills</h3>
                 <p>These are my top five favorite languages.</p>
@@ -231,7 +243,7 @@
                 <div class="card">
                     <a href="work/paluxe">
                         <div class="container-fade">
-                            <img class="img-fluid card-img-top" src="img/paluxe.JPG" alt="Card image cap" height="267" width="267">
+                            <img class="img-fluid card-img-top" src="img/paluxe.webp" alt="Card image cap" height="267" width="267">
                             <div class="overlay-fade">
                                 <div class="text-fade">click Me</div>
                             </div>
@@ -248,7 +260,7 @@
                 <div class="card">
                     <a href="work/avantLoop">
                         <div class="container-fade">
-                            <img class="img-fluid card-img-top" src="img/avant_loop.JPG" alt="Card image cap" height="267" width="267">
+                            <img class="img-fluid card-img-top" src="img/avant_loop.webp" alt="Card image cap" height="267" width="267">
                             <div class="overlay-fade">
                                 <div class="text-fade">click Me</div>
                             </div>
@@ -267,7 +279,7 @@
                 <div class="card">
                     <a href="work/cms_mvc">
                         <div class="container-fade">
-                            <img class="img-fluid card-img-top image-fade" src="img/cms.jpg" alt="Card image cap" height="267" width="267">
+                            <img class="img-fluid card-img-top image-fade" src="img/cms.webp" alt="Card image cap" height="267" width="267">
                             <div class="overlay-fade">
                                 <div class="text-fade">Click Me</div>
                             </div>
@@ -284,7 +296,7 @@
                 <div class="card">
                     <a href="work/githubfinder">
                         <div class="container-fade">
-                            <img class="img-fluid card-img-top" src="img/github.jpg" alt="Card image cap" height="267" width="267">
+                            <img class="img-fluid card-img-top" src="img/github.webp" alt="Card image cap" height="267" width="267">
                             <div class="overlay-fade">
                                 <div class="text-fade">click Me</div>
                             </div>
@@ -303,7 +315,7 @@
                 <div class="card">
                     <a href="work/booklist">
                         <div class="container-fade">
-                            <img class="img-fluid card-img-top" src="img/booklist.jpg" alt="Card image cap" height="267" width="267">
+                            <img class="img-fluid card-img-top" src="img/booklist.webp" alt="Card image cap" height="267" width="267">
                             <div class="overlay-fade">
                                 <div class="text-fade">click Me</div>
                             </div>
@@ -320,7 +332,7 @@
                 <div class="card">
                     <a href="work/kingdom_hearts">
                         <div class="container-fade">
-                            <img class="img-fluid card-img-top" src="img/kingdom_hearts_3.png" alt="Card image cap" height="267" width="267">
+                            <img class="img-fluid card-img-top" src="img/kingdom_hearts_3.webp" alt="Card image cap" height="267" width="267">
                             <div class="overlay-fade">
                                 <div class="text-fade">click Me</div>
                             </div>
@@ -339,7 +351,7 @@
                 <div class="card">
                     <a href="work/loancalculator">
                         <div class="container-fade">
-                            <img class="img-fluid card-img-top" src="img/loancalc.png" alt="Card image cap" height="267" width="267">
+                            <img class="img-fluid card-img-top" src="img/loancalc.webp" alt="Card image cap" height="267" width="267">
                             <div class="overlay-fade">
                                 <div class="text-fade">click Me</div>
                             </div>
@@ -356,7 +368,7 @@
                 <div class="card">
                     <a href="work/tasklist">
                         <div class="container-fade">
-                            <img class="img-fluid card-img-top" src="img/tasklist.jpg" alt="Card image cap" height="267" width="267">
+                            <img class="img-fluid card-img-top" src="img/tasklist.webp" alt="Card image cap" height="267" width="267">
                             <div class="overlay-fade">
                                 <div class="text-fade">click Me</div>
                             </div>
@@ -372,11 +384,26 @@
                 </div>
             </div>
         </div>
-        
+
+                <!-- CERTIFICATES -->
+        <div id="certificates" class="collapse">
+            <div class="card card-body bg-danger text-white py-5">
+                <h3>My certificates</h3>
+            </div>
+            <!-- <div class="card-deck"> -->
+                <div class="card card-body py-5">
+                    <img class="img-fluid card-img-top" src="img/CPU-Cert.webp" alt="Card image cap" height="267" width="267">
+                </div>
+                <div class="card card-body py-5">
+                    <img class="img-fluid card-img-top" src="img/photoShop-cert.webp" alt="Card image cap" height="267" width="267">
+                </div>
+            <!-- </div> -->
+        </div>
+            
         <!-- CONTACT -->
         <div id="contact" class="collapse">
-            <div class="card card-body bg-danger text-white py-5">
-                <h3>Get in touch</h3>
+            <div class="card card-body bg-primary text-white py-5">
+                <h3 class="text-light">Get in touch</h3>
             </div>
             
             <div class="card card-body py-5">
@@ -384,19 +411,19 @@
                 <!-- <p></p> -->
                 <form method="post">
                     <div class="form-group">
-                        <div class="input-group input-group-lg">
+                        <div class="input-group input-group-md">
                             <!-- <span class="input-group-addon bg-danger text-white">
                                 <i class="fa fa-user"></i>
                             </span> -->
-                            <input type="text" class="form-control bg-dark text-white" name="name" placeholder="Name" required>
+                            <input type="text" class="form-control bg-danger text-dark" name="name" placeholder="Name" required>
                         </div>
                     </div>
                     <div class="form-group">
-                        <div class="input-group input-group-lg">
+                        <div class="input-group input-group-md">
                             <!-- <span class="input-group-addon bg-danger text-white">
                                 <i class="fa fa-envelope"></i>
                             </span> -->
-                            <input type="email" class="form-control bg-dark text-white" name="email" placeholder="Email" required>
+                            <input type="email" class="form-control bg-danger text-dark" name="email" placeholder="Email" required>
                         </div>
                     </div>
                     <div class="form-group">
@@ -404,10 +431,10 @@
                             <!-- <span class="input-group-addon bg-danger text-white"> 
                                 <i class="fa fa-pencil"></i>
                             </span> -->
-                            <textarea rows="3" class="form-control form-control-lg bg-dark text-white message-box" name="body" placeholder="Message" required></textarea>
+                            <textarea rows="3" class="form-control form-control-md bg-danger text-dark message-box" name="body" placeholder="Message" required></textarea>
                         </div>
                     </div>
-                    <input type="submit" name="submit" value="submit" class="btn btn-danger btn-block btn-lg">
+                    <input type="submit" name="submit" value="submit" class="btn btn-danger btn-block btn-md">
                 </form>
             </div>
         </div>
