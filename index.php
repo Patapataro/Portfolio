@@ -76,7 +76,7 @@
                                     </div>
                                 </div> -->
                                 <div class="menu-section d-flex flex-row text white align-items-stretch text-center">
-                                    <div class="color-black port-item p-4 bg-success" data-toggle="collapse" data-target="#resume">
+                                    <div class="color-black port-item p-2 bg-success" data-toggle="collapse" data-target="#resume">
                                         <!-- <i class="tabs fa fa-graduation-cap d-block"></i>  -->
                                         <svg width="25" height="25" fill="currentColor" class="bi bi-braces-asterisk" viewBox="0 0 16 16">
                                             <path fill-rule="evenodd" d="M1.114 8.063V7.9c1.005-.102 1.497-.615 1.497-1.6V4.503c0-1.094.39-1.538 1.354-1.538h.273V2h-.376C2.25 2 1.49 2.759 1.49 4.352v1.524c0 1.094-.376 1.456-1.49 1.456v1.299c1.114 0 1.49.362 1.49 1.456v1.524c0 1.593.759 2.352 2.372 2.352h.376v-.964h-.273c-.964 0-1.354-.444-1.354-1.538V9.663c0-.984-.492-1.497-1.497-1.6ZM14.886 7.9v.164c-1.005.103-1.497.616-1.497 1.6v1.798c0 1.094-.39 1.538-1.354 1.538h-.273v.964h.376c1.613 0 2.372-.759 2.372-2.352v-1.524c0-1.094.376-1.456 1.49-1.456v-1.3c-1.114 0-1.49-.362-1.49-1.456V4.352C14.51 2.759 13.75 2 12.138 2h-.376v.964h.273c.964 0 1.354.444 1.354 1.538V6.3c0 .984.492 1.497 1.497 1.6ZM7.5 11.5V9.207l-1.621 1.621-.707-.707L6.792 8.5H4.5v-1h2.293L5.172 5.879l.707-.707L7.5 6.792V4.5h1v2.293l1.621-1.621.707.707L9.208 7.5H11.5v1H9.207l1.621 1.621-.707.707L8.5 9.208V11.5h-1Z"/>
@@ -84,7 +84,7 @@
                                         <br>
                                         EXPERIENCE
                                     </div>
-                                    <div class="color-black port-item p-4 bg-warning" data-toggle="collapse" data-target="#work">
+                                    <div class="color-black port-item p-2 bg-warning" data-toggle="collapse" data-target="#work">
                                         <!-- <i class="tabs fa fa-folder-open d-block"></i>  -->
                                         <svg width="25" height="25" fill="currentColor" class="bi bi-brush" viewBox="0 0 16 16">
                                             <path d="M15.825.12a.5.5 0 0 1 .132.584c-1.53 3.43-4.743 8.17-7.095 10.64a6.067 6.067 0 0 1-2.373 1.534c-.018.227-.06.538-.16.868-.201.659-.667 1.479-1.708 1.74a8.118 8.118 0 0 1-3.078.132 3.659 3.659 0 0 1-.562-.135 1.382 1.382 0 0 1-.466-.247.714.714 0 0 1-.204-.288.622.622 0 0 1 .004-.443c.095-.245.316-.38.461-.452.394-.197.625-.453.867-.826.095-.144.184-.297.287-.472l.117-.198c.151-.255.326-.54.546-.848.528-.739 1.201-.925 1.746-.896.126.007.243.025.348.048.062-.172.142-.38.238-.608.261-.619.658-1.419 1.187-2.069 2.176-2.67 6.18-6.206 9.117-8.104a.5.5 0 0 1 .596.04zM4.705 11.912a1.23 1.23 0 0 0-.419-.1c-.246-.013-.573.05-.879.479-.197.275-.355.532-.5.777l-.105.177c-.106.181-.213.362-.32.528a3.39 3.39 0 0 1-.76.861c.69.112 1.736.111 2.657-.12.559-.139.843-.569.993-1.06a3.122 3.122 0 0 0 .126-.75l-.793-.792zm1.44.026c.12-.04.277-.1.458-.183a5.068 5.068 0 0 0 1.535-1.1c1.9-1.996 4.412-5.57 6.052-8.631-2.59 1.927-5.566 4.66-7.302 6.792-.442.543-.795 1.243-1.042 1.826-.121.288-.214.54-.275.72v.001l.575.575zm-4.973 3.04.007-.005a.031.031 0 0 1-.007.004zm3.582-3.043.002.001h-.002z"/>
@@ -92,7 +92,7 @@
                                         <br>
                                         PORTFOLIO
                                     </div>
-                                    <div class="color-black port-item p-4 bg-danger" data-toggle="collapse" data-target="#certificates">
+                                    <div class="color-black port-item p-2 bg-danger" data-toggle="collapse" data-target="#certificates">
                                         <!-- <i class="tabs fa fa-envelope d-block"></i>  -->
                                         <svg width="25" height="25" fill="currentColor" class="bi bi-patch-check" viewBox="0 0 16 16">
                                             <path fill-rule="evenodd" d="M10.354 6.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7 8.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
@@ -101,7 +101,7 @@
                                         <br>
                                         CERTIFICATES
                                     </div>
-                                    <div class="color-black port-item p-4 bg-primary" data-toggle="collapse" data-target="#contact">
+                                    <div class="color-black port-item p-2 bg-primary" data-toggle="collapse" data-target="#contact">
                                         <!-- <i class="tabs fa fa-envelope d-block"></i>  -->
                                         <svg width="25" height="25" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
                                             <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/>
